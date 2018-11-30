@@ -1,4 +1,4 @@
-# vuex
+# Vue JS Simple App
 
 > A Vue.js project
 
