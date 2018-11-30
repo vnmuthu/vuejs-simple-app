@@ -67,18 +67,17 @@
 <style lang="scss">
 .user-list {
     width: 100%;
-    display:inline-block;
 }
 .users {
-    width: 30%;
+    width: 50%;
     display: inline-block;
-    float: left;
 }
 .registered {
-    width: 30%;
+    width: 50%;
     display:inline-block;
-    padding-left: 50px;
+    position: absolute;
     box-sizing: border-box;
+
 }
 .row {
     width: 100%;
